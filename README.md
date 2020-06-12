@@ -16,4 +16,5 @@ A leading theory in how visual recognition of differently orientated 3D objects 
 ### References
 
 Ganis, G. and Kievit, R.A., 2015. A New Set of Three-Dimensional Shapes for Investigating Mental Rotation Processes: Validation Data and Stimulus Set. Journal of Open Psychology Data, 3(1), p.e3. DOI: http://doi.org/10.5334/jopd.ai
+<br />
 For an instance of the \_magpie mental rotation experiment see also the official GitHub: https://github.com/magpie-ea/magpie-mental-rotation
